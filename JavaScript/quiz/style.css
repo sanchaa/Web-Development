@@ -1,0 +1,64 @@
+
+*{
+    margin: 0%;
+    padding: 0.1%;
+    background: plum;
+    font-family:'Roboto Mono', monospace;
+
+}
+ 
+body, html {
+    height: 100%;
+}
+
+body {
+    align-content: space-around;
+    font-family: Roboto Mono, monospace ;
+    line-height: 2.0;
+}
+
+
+
+background {
+    background-image: url('img/balloon-image.jpg') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+head{
+    font-weight: 100;
+    font-family:  'Roboto Mono', monospace;
+    align-items: center;
+    text-align: center;
+
+}
+
+#submit {
+    display: inline-block;
+    padding: 0.3em 1.2em;
+    margin: 0 0.1em 0.1em;
+    border: 0.16em solid rgba(255,255,255,0); 
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    background-color: rgb(69, 0, 133);
+}
+#reveal {
+    display: inline-block;
+    padding: 0.3em 1.2em;
+    margin: 0 0.1em 0.1em;
+    border: 0.16em solid rgba(255,255,255,0); 
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    background-color:rgb(21, 161, 226);
+    align-content: left;
+}
+   

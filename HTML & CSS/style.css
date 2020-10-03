@@ -1,0 +1,98 @@
+@charset "UTF-8";
+/* CSS Document */
+
+p text.container{
+        font-family: 'Rubik'sans-serif;
+        font-size: 60px;
+        font-weight: regular;
+    font-size: 50px;
+    align-items: left;
+    line-height: 1;
+    }
+
+
+p {
+ 
+           
+        font-family:'Rubik', sans-serif; 
+        font-weight:bold;
+        align-items: left;
+        font-size: 30px;
+
+}
+
+body { 
+margin: 0px;
+padding: 0px;
+background:white;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: underline;
+    line-height: 5px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    height: 60px;
+    background-color:#FFFFFF;
+    box-shadow: 2px 2px 12 px rgba (0,0,0,0.2);
+    padding: 0px 5%;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li a {
+    margin: 20px;
+    font-family:'Rubik', sans-serif;
+    font-family:'Epilogue', sans-serif; ;
+    color: rgba(45, 17, 121, 0.596);
+    font-size: 15px;
+    font-weight: 200;
+}
+
+/* LOGO */
+
+h2 {
+    font-family:'Rubik', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+   h3 {
+    font-family:'Rubik', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+   }
+   
+   p {
+    font-family:'Rubik', sans-serif;
+    font-size: 18.5px;
+    font-weight:normal;
+    color: black;
+   }
+   
+   .content {
+       display: flex;
+       justify-content: space-between;
+   }
+   
+   
+   
+   
+   
+    /* text-decoration: none;
+    align-items: left;
+    text-align: left;
+    font-family: 'Epilogue', sans-serif; */
+
+
